@@ -308,38 +308,6 @@ focus_areas:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankJ0SHI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ee7b7&icon_color=6ee7b7&text_color=c9d1d9&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankJ0SHI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ee7b7&text_color=c9d1d9"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankJ0SHI&theme=tokyonight&hide_border=true&background=0D1117&stroke=6ee7b7&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7"/>
-
-</div>
-
----
-
-# 📉 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankJ0SHI&bg_color=0D1117&color=6ee7b7&line=6ee7b7&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
 # 🧠 AI Engineering Principles
 
 ```text
