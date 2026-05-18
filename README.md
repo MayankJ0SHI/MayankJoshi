@@ -1,6 +1,5 @@
 # README.md
 
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:0f172a&height=220&section=header&text=Mayank%20Joshi&fontSize=54&fontColor=6ee7b7&fontAlignY=36&desc=GenAI%20Engineer%20•%20LLM%20Applications%20•%20Agentic%20AI%20•%20RAG%20Systems&descAlignY=58&descSize=17&descColor=94a3b8&animation=fadeIn" />
@@ -375,5 +374,4 @@ focus_areas:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0b0f19&height=120&section=footer&text=Building%20AI%20Systems%20Beyond%20Prototypes&fontSize=22&fontColor=6ee7b7&animation=fadeIn"/>
 
 </div>
-```
 
